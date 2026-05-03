@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:\\\\Users\\\\jicoo\\\\OneDrive\\\\Documents\\\\Claude\\\\marketing_team\\\\.claude\\\\skills\\\\branded-social-visual\\\\scripts\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\jicoo\\\\OneDrive\\\\Documents\\\\Claude\\\\marketing_team\\\\.claude\\\\skills\\\\branded-social-visual\\\\references\")",
+      "Bash(python .claude/skills/branded-social-visual/scripts/generate_visual.py --type pain --week 1 --day mon)",
+      "Bash(python .claude/skills/branded-social-visual/scripts/generate_visual.py --type education --week 1 --day wed)",
+      "Bash(python .claude/skills/branded-social-visual/scripts/generate_visual.py --type proof --week 1 --day fri)",
+      "Bash(python .claude/skills/branded-social-visual/scripts/generate_visual.py --type cta --week 1 --day sat)",
+      "PowerShell(Get-Command python3, python, py -ErrorAction SilentlyContinue)",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\jicoo\\\\OneDrive\\\\Documents\\\\Claude\\\\marketing_team\\\\social-media\")",
+      "PowerShell($pyexe = \\(Get-Command py.exe\\).Source; Write-Output \"py.exe at: $pyexe\"; & py.exe --version 2>&1)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\jicoo\\\\OneDrive\\\\Documents\\\\Claude\\\\marketing_team\\\\social-media\" | Select-Object Name, @{N='Size KB';E={[math]::Round\\($_.Length/1KB,1\\)}})"
+    ]
+  }
+}
