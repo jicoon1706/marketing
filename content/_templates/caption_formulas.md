@@ -37,7 +37,7 @@ We build AI chatbots that handle enquiries, qualify leads, and send follow-ups. 
 
 DM us "AUTOMATE" and we'll show you how it works for your business.
 
-#AIchatbot #MalaysiaTech #BusinessAutomation #WhatsAppBot #IGenVeritas
+#AIchatbot #MalaysiaTech #BusinessAutomation #WebsiteChatbot #IGenVeritas
 
 ---
 
@@ -60,7 +60,7 @@ Comment "DEMO" or visit igenveritas.com to see our packages.
 ---
 
 **Variations to rotate:**
-- "Every unanswered WhatsApp message is a lead you just gave to your competitor."
+- "Every website visitor who leaves without a reply is a lead you just gave to your competitor."
 - "Kalau business tutup malam, leads pun tutup juga — but yours doesn't have to."
 - "What's the cost of missing 5 leads a week? Do the math."
 
@@ -93,7 +93,7 @@ Comment "DEMO" or visit igenveritas.com to see our packages.
 
 Most business owners think chatbots are just for big companies. They're not — and here's what you're missing:
 
-- Replies to every WhatsApp message instantly (no "seen" with no reply)
+- Replies to every website visitor instantly (no more "seen" with no reply)
 - Qualifies leads before you even wake up
 - Sends follow-up messages automatically if no response in 24h
 - Collects customer info into a Google Sheet — zero manual entry
@@ -103,7 +103,7 @@ This isn't the future. Our clients are using this today.
 
 Want to see it live? DM us "SHOW ME" and we'll walk you through a demo.
 
-#AIchatbot #WhatsAppBot #MalaysiaTech #BusinessAutomation #IGenVeritas
+#AIchatbot #WebsiteChatbot #MalaysiaTech #BusinessAutomation #IGenVeritas
 
 ---
 
@@ -163,7 +163,7 @@ IGEN VERITAS offers three tiers — Basic (RM 500 setup), Growth, and Pro. Drop 
 
 From 0 leads overnight to 3 qualified enquiries before breakfast.
 
-A kedai in Chow Kit was losing customers every night — no one to answer WhatsApp after 8PM.
+A kedai in Chow Kit was losing customers every night — no one to answer website enquiries after 8PM.
 
 We deployed a Growth-tier AI chatbot in 5 days:
 - Auto-replies to common questions
@@ -174,7 +174,7 @@ Result: owner wakes up to a full Google Sheet of warm leads — every morning.
 
 Your business can run the same way. DM us "MY TURN" to get started.
 
-#AIchatbot #MalaysiaTech #WhatsAppBot #BusinessAutomation #IGenVeritas
+#AIchatbot #MalaysiaTech #WebsiteChatbot #BusinessAutomation #IGenVeritas
 
 ---
 
@@ -184,7 +184,7 @@ Your business can run the same way. DM us "MY TURN" to get started.
 
 Case study: How we helped a Malaysian F&B operator capture leads while they slept.
 
-The problem: A small restaurant in KL was getting WhatsApp enquiries after hours — but no one was available to respond. By morning, leads were cold.
+The problem: A small restaurant in KL was getting website enquiries after hours — but no one was available to respond. By morning, leads were cold.
 
 Our solution: Growth-tier chatbot — Botpress + n8n automation + Google Sheets CRM.
 
@@ -253,7 +253,7 @@ Pro — RM 2,000 setup + RM 500/mo
 
 Not sure which fits? DM us "WHICH ONE" and we'll recommend the right tier for free.
 
-#AIchatbot #MalaysiaTech #BusinessAutomation #WhatsAppBot #IGenVeritas
+#AIchatbot #MalaysiaTech #BusinessAutomation #WebsiteChatbot #IGenVeritas
 
 ---
 
@@ -314,7 +314,7 @@ No long contracts. No hidden fees. No technical knowledge needed on your end.
 
 DM us "START" right now.
 
-#AIchatbot #MalaysiaTech #BusinessAutomation #WhatsAppBot #IGenVeritas #DigitalTransformation
+#AIchatbot #MalaysiaTech #BusinessAutomation #WebsiteChatbot #IGenVeritas #DigitalTransformation
 
 ---
 
@@ -361,7 +361,7 @@ If you're ready to move past "thinking about it," send me a message or visit ige
 
 ---
 
-Honest question: how long does it take your business to reply to a new WhatsApp enquiry?
+Honest question: how long does it take your business to reply to a new website enquiry?
 
 Under 5 minutes? You're in the top 10%.
 30 minutes to a few hours? You're average.
@@ -405,7 +405,7 @@ Drop your answer in the comments. Genuinely curious — and I'll share what we'v
 | Social Proof | Specific result first | "3 qualified leads before breakfast — real client result." |
 | Package Reveal | Reframe the decision | "Stop guessing which chatbot package is right for you." |
 | Direct CTA | Soft urgency | "You've been thinking about this for months." |
-| Engagement | Relatable question | "How long does it take your business to reply to a WhatsApp?" |
+| Engagement | Relatable question | "How long does it take your business to reply to a website enquiry?" |
 
 ---
 

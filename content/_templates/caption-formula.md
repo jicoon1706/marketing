@@ -37,7 +37,7 @@
 `#IGenVeritas #MalaysiaTech #AIchatbot`
 
 ### Service-specific
-`#WebDevelopment #MobileApp #WhatsAppBot #BusinessAutomation`
+`#WebDevelopment #MobileApp #WebsiteChatbot #BusinessAutomation`
 
 ### Geo & community
 `#KualaLumpur #SelangorBusiness #StartupMalaysia #DigitalTransformation`
@@ -73,7 +73,7 @@ Our AI chatbot works 24/7 so you don't have to.
 
 DM us "START" to see how it works 👇
 
-#AIchatbot #MalaysiaTech #IGenVeritas #WhatsAppBot #BusinessAutomation
+#AIchatbot #MalaysiaTech #IGenVeritas #WebsiteChatbot #BusinessAutomation
 ```
 
 ### LinkedIn — Thought Leadership Post
@@ -113,5 +113,5 @@ Full AI funnel + lead scoring + Day 1/3/7 follow-up + weekly dashboard
 Which one is right for your business?
 Comment your industry below 👇
 
-#AIchatbot #IGenVeritas #MalaysiaBusiness #Automation #WhatsAppBot
+#AIchatbot #IGenVeritas #MalaysiaBusiness #Automation #WebsiteChatbot
 ```

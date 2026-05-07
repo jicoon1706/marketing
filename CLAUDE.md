@@ -158,7 +158,7 @@ marketing_team/
 
 ### Hashtags
 `#AIchatbot #MalaysiaTech #WebDevelopment #MobileApp #BusinessAutomation`
-`#KualaLumpur #IGenVeritas #WhatsAppBot #DigitalTransformation #StartupMalaysia`
+`#KualaLumpur #IGenVeritas #WebsiteChatbot #DigitalTransformation #StartupMalaysia`
 
 ---
 

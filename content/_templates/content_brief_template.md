@@ -158,7 +158,7 @@ Select from approved bank. Target: 5–7 for Instagram, 3–5 for LinkedIn.
 
 ```
 #IGenVeritas #AIchatbot #MalaysiaTech #WebDevelopment #MobileApp
-#BusinessAutomation #KualaLumpur #WhatsAppBot #DigitalTransformation #StartupMalaysia
+#BusinessAutomation #KualaLumpur #WebsiteChatbot #DigitalTransformation #StartupMalaysia
 ```
 
 **Selected for this post:**
@@ -205,4 +205,4 @@ Select from approved bank. Target: 5–7 for Instagram, 3–5 for LinkedIn.
 | Core Message | Businesses lose leads at 2AM when no one answers |
 | Hook | "Your business is closed. Your competitor's chatbot isn't." |
 | CTA | DM us "DEMO" for a free walkthrough |
-| Hashtags | #AIchatbot #MalaysiaTech #BusinessAutomation #WhatsAppBot #IGenVeritas |
+| Hashtags | #AIchatbot #MalaysiaTech #BusinessAutomation #WebsiteChatbot #IGenVeritas |

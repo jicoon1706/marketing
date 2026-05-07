@@ -230,7 +230,7 @@ Inspired by respond.io and WhatChimp aesthetics:
 ```
 
 ### Recommended Hashtags
-`#AIchatbot #MalaysiaTech #WebDevelopment #MobileApp #BusinessAutomation #KualaLumpur #IGenVeritas #WhatsAppBot #DigitalTransformation #StartupMalaysia`
+`#AIchatbot #MalaysiaTech #WebDevelopment #MobileApp #BusinessAutomation #KualaLumpur #IGenVeritas #WebsiteChatbot #DigitalTransformation #StartupMalaysia`
 
 ---
 

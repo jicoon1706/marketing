@@ -12,9 +12,6 @@
 **Background:**
 `02_Purple_Black.jpg` from IGEN_VERITAS_Gradient_Backgrounds — deep purple-to-black gradient. Dark overlay applied at 47% opacity to boost text contrast.
 
-**Top-right Badge:**
-Rounded pill badge (`#7B67D1` at 78% opacity) reading "CAROUSEL ▶" in white 15px bold — signals swipeable content.
-
 **Headline (y: 160–480):**
 Three-line stacked display type:
 - Line 1: "5 Signs Your" — white, 82px bold
@@ -39,8 +36,6 @@ Five full-width glassmorphism cards (80–1000px wide, 56px tall, 12px radius):
 
 **Bottom Strip:**
 Horizontal gradient bar (Violet → Blue Bright) at y:1024–1080 with tagline text.
-
-**Brand Watermark:** Top-left — "IGEN VERITAS" + "igenveritas.com"
 
 **Palette:** Purple Black BG + Violet + Blue Mid + White + Body Gray
 **Mood:** Authoritative, list-style, problem awareness — invites swipe interaction

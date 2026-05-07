@@ -46,7 +46,7 @@ Use for: Education posts, product features, chatbot reveals, automation content.
 | `#AIchatbot` | Core service | Medium |
 | `#ChatbotMarketing` | Marketing use-case | Medium |
 | `#BusinessAutomation` | Automation angle | Medium-Large |
-| `#WhatsAppBot` | WhatsApp-specific chatbot | Medium |
+| `#WebsiteChatbot` | Website chatbot widget | Medium |
 | `#AIAgent` | AI agent / advanced automation | Growing |
 | `#AutomationTools` | Tools-focused audience | Medium |
 | `#ConversationalAI` | Technical / professional audience | Niche |
@@ -56,7 +56,7 @@ Use for: Education posts, product features, chatbot reveals, automation content.
 | `#ChatbotDevelopment` | Developer / agency audience | Niche |
 
 **Best combinations for AI posts:**
-- Instagram: `#AIchatbot #BusinessAutomation #WhatsAppBot #MalaysiaTech #IGenVeritas`
+- Instagram: `#AIchatbot #BusinessAutomation #WebsiteChatbot #MalaysiaTech #IGenVeritas`
 - LinkedIn: `#AIchatbot #BusinessAutomation #DigitalTransformation #IGenVeritas`
 
 ---
@@ -153,7 +153,7 @@ Use for: Engagement posts, questions, polls, community-building content. These i
 
 ### Set A — AI Chatbot (Instagram, Pain/Education)
 ```
-#AIchatbot #WhatsAppBot #BusinessAutomation #MalaysiaTech #MalaysiaSME #KualaLumpur #DigitalTransformation #IGenVeritas #StartupMalaysia #LeadGeneration
+#AIchatbot #WebsiteChatbot #BusinessAutomation #MalaysiaTech #MalaysiaSME #KualaLumpur #DigitalTransformation #IGenVeritas #StartupMalaysia #LeadGeneration
 ```
 
 ### Set B — AI Chatbot (LinkedIn, Thought Leadership)
@@ -163,7 +163,7 @@ Use for: Engagement posts, questions, polls, community-building content. These i
 
 ### Set C — Package Reveal / Conversion (Instagram)
 ```
-#AIchatbot #MalaysiaTech #BusinessAutomation #WhatsAppBot #IGenVeritas #StartupMalaysia #DigitalTransformation #LeadGeneration
+#AIchatbot #MalaysiaTech #BusinessAutomation #WebsiteChatbot #IGenVeritas #StartupMalaysia #DigitalTransformation #LeadGeneration
 ```
 
 ### Set D — Web Development (Instagram)

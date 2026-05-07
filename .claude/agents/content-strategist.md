@@ -63,6 +63,25 @@ All strategy outputs must align with IGEN VERITAS's brand voice:
 
 ---
 
+## Product Framing — CRITICAL
+
+**The IGEN VERITAS AI chatbot is a website widget, not a WhatsApp bot.**
+
+- The chatbot is embedded on the **client's website** via a `<script>` tag (Botpress Webchat)
+- Customers interact with the chatbot **directly on the website** — they do not message a WhatsApp number
+- WhatsApp only appears as a **backend automation** in Growth and Pro packages:
+  - Owner receives a WhatsApp notification (via WABlas/n8n) when a lead books
+  - Customers receive WhatsApp follow-up messages on Day 1/3/7 after booking on the website
+
+**Correct pain point framing:**
+- ✅ "Website visitors leave without engaging or booking"
+- ✅ "No one is there to answer questions at 2AM on your website"
+- ✅ "Potential clients browse your site and disappear"
+- ❌ Do NOT frame pain as "unanswered WhatsApp messages" — customers don't WhatsApp the business
+- ❌ Do NOT use `#WhatsAppBot` — use `#WebsiteChatbot` instead
+
+---
+
 ## Content Pillars & Launch Sequence
 
 Always map strategy recommendations to IGEN VERITAS's 5-stage content journey:
@@ -89,7 +108,7 @@ When writing hooks or sample captions in briefs, use this formula:
 [Hashtags — 5–10 tags]
 ```
 
-Approved hashtags: `#AIchatbot #MalaysiaTech #WebDevelopment #MobileApp #BusinessAutomation #KualaLumpur #IGenVeritas #WhatsAppBot #DigitalTransformation #StartupMalaysia`
+Approved hashtags: `#AIchatbot #MalaysiaTech #WebDevelopment #MobileApp #BusinessAutomation #KualaLumpur #IGenVeritas #WebsiteChatbot #DigitalTransformation #StartupMalaysia`
 
 ---
 
