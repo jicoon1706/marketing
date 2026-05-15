@@ -103,7 +103,7 @@ marketing_team/
 ├── CLAUDE.md                          ← You are here
 ├── brand/                             ← Brand identity & assets
 │   ├── IGEN_VERITAS_Brand_Guidelines.md
-│   └── assets/                        ← Logos, color swatches, fonts
+│   └── assets/                        ← Logos, color swatches, fonts, gradient backgrounds
 ├── services/                          ← Service documentation
 │   ├── ai-chatbot/
 │   │   └── AI_Chatbot_Packages.md
@@ -113,18 +113,37 @@ marketing_team/
 │       ├── brief.md
 │       ├── build-checklist.md
 │       └── assets/
-├── content/                           ← Social media & marketing content
-│   ├── instagram/
-│   ├── linkedin/
-│   ├── captions/
+├── content/                           ← Social media & marketing content (2-layer pipeline)
+│   ├── plans/                         ← Layer 1: approved monthly content calendars (YYYY-MM_plan.md)
+│   ├── pipeline/                      ← Layer 2: active post production (CB-XXX.md)
+│   ├── ready-to-post/                 ← Approved posts awaiting publishing
+│   ├── posted/YYYY-MM/                ← Archive of published posts
+│   ├── captions/                      ← Legacy captions (pre-pipeline)
+│   ├── prompt/                        ← Image generation prompts
+│   ├── prototype/                     ← Draft / experimental content
+│   ├── instagram/                     ← Static IG content references
+│   ├── linkedin/                      ← LinkedIn content references
 │   └── _templates/                    ← Caption formula, hashtag banks
+├── social-media/                      ← Generated PNG output (branded visuals)
+│   └── CB-XXX_carousel/               ← Multi-slide sets
+├── poster/                            ← Finalized poster exports
+├── mockup/                            ← UI/device mockups
+├── scripts/                           ← Week-by-week reel/video scripts
+├── _scripts/                          ← Python generation scripts (branded-social-visual)
 ├── operations/                        ← Internal SOPs & processes
 │   ├── onboarding/                    ← Client onboarding workflow
 │   ├── deployment/                    ← Deployment checklists
 │   └── reporting/                     ← Monthly report templates
 ├── business/                          ← Business strategy documents
 │   └── IGen Veritas Business Model.pdf
-└── memory/                            ← AI persistent memory (auto-managed)
+├── memory/                            ← AI persistent memory (auto-managed)
+└── .claude/
+    └── skills/                        ← Custom skill library
+        ├── content&copy/              ← branded-social-visual, social-pipeline, copywriting, etc.
+        ├── growth_engineering/        ← co-marketing, free-tools
+        ├── measurement&tracking/      ← ab-testing, analytics
+        ├── paid&distribution/         ← ad-creative, ads
+        └── strategy&monetization/     ← launch, marketing-ideas, marketing-psychology
 ```
 
 ---
@@ -132,16 +151,25 @@ marketing_team/
 ## Social Media Strategy
 
 ### Posting Schedule
-- **Instagram**: 3–4x per week
+- **Instagram**: 3–4x per week (primary channel)
 - **LinkedIn**: 2x per week
 - **Best times**: Tue–Thu, 8–10am or 7–9pm MYT
 
-### Launch Content Sequence
-1. Brand Intro — Who is IGEN VERITAS? *(Awareness)*
-2. Pain Point — "Your business is losing leads at 2AM" *(Pain)*
-3. Solution — AI Chatbot that works 24/7 *(Education)*
-4. Packages Reveal — Basic / Growth / Pro *(Consideration)*
-5. CTA — "Ready to automate your business?" *(Conversion)*
+### Content Pipeline (2-Layer System)
+
+**Layer 1 — Monthly Planning** (trigger: "plan [month]")
+- Claude generates a full monthly content calendar
+- User reviews and approves → saved as `content/plans/YYYY-MM_plan.md`
+- No individual post files created until plan is approved
+
+**Layer 2 — Post Production** (trigger: "work on CB-XXX")
+- Claude creates `content/pipeline/CB-XXX.md` from the approved plan
+- Format: Image (branded-social-visual skill) or Reel (script + shot list)
+- User approves content → caption written → moves to `content/ready-to-post/` → posted → archived to `content/posted/YYYY-MM/`
+
+**CB Numbering:** CB-001–CB-023 are legacy (pre-pipeline). New posts start at **CB-024**, assigned during monthly planning.
+
+Use the `/social-pipeline` skill for all pipeline operations.
 
 ### Caption Formula
 ```

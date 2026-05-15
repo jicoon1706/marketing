@@ -1,0 +1,16 @@
+# Local Claude Code settings (contains API keys — never commit)
+.claude/settings.local.json
+
+# Environment files
+.env
+.env.local
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

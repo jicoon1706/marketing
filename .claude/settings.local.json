@@ -10,7 +10,9 @@
       "PowerShell(Get-Command python3, python, py -ErrorAction SilentlyContinue)",
       "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\jicoo\\\\OneDrive\\\\Documents\\\\Claude\\\\marketing_team\\\\social-media\")",
       "PowerShell($pyexe = \\(Get-Command py.exe\\).Source; Write-Output \"py.exe at: $pyexe\"; & py.exe --version 2>&1)",
-      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\jicoo\\\\OneDrive\\\\Documents\\\\Claude\\\\marketing_team\\\\social-media\" | Select-Object Name, @{N='Size KB';E={[math]::Round\\($_.Length/1KB,1\\)}})"
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\jicoo\\\\OneDrive\\\\Documents\\\\Claude\\\\marketing_team\\\\social-media\" | Select-Object Name, @{N='Size KB';E={[math]::Round\\($_.Length/1KB,1\\)}})",
+      "Bash(python .claude/skills/content&copy/branded-social-visual/scripts/skywork_generate.py*)",
+      "PowerShell(python .claude/skills/content&copy/branded-social-visual/scripts/skywork_generate.py*)"
     ]
   }
 }
