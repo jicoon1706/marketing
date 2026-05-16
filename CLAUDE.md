@@ -23,7 +23,9 @@
 
 ## Services
 
-### 1. AI Chatbot Packages
+### 1. Website AI Chatbot Packages
+
+**Core positioning:** A chatbot embedded directly on the client's website — not a standalone sales agent, not a WhatsApp inbox tool. The primary use case is capturing and converting website visitors who would otherwise leave without making contact. Target clients are businesses that already have a website but have no AI chatbot on it.
 
 | Package | Setup | Monthly | Tools |
 |---|---|---|---|
@@ -58,9 +60,10 @@ Full feature matrix and build checklists → [`services/ai-chatbot/AI_Chatbot_Pa
 
 ## Target Customers
 
-- Malaysian SMEs
-- Solo entrepreneurs & freelancers needing online presence
-- Existing businesses with no website or an outdated one
+- Malaysian SMEs with a website but **no AI chatbot on it** — the primary ICP
+- Solo entrepreneurs & freelancers who want their website to work while they sleep
+- Business owners losing website visitors because no one is available to respond instantly
+- Businesses relying on a Contact form or WhatsApp link alone (no automated lead capture)
 - Business owners who want leads but can't afford a full marketing team
 
 ---
@@ -194,7 +197,7 @@ Use the `/social-pipeline` skill for all pipeline operations.
 
 | Stream | Type |
 |---|---|
-| AI Agent setup fee | One-time |
+| Website AI Chatbot setup fee | One-time |
 | Monthly chatbot retainer | Recurring |
 | Web/app development | One-time project |
 | Domain/hosting resell margin | Recurring |

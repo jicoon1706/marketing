@@ -159,6 +159,51 @@ py social-media/gen_CB-XXX.py
 Output filename format: `social-media/CB-XXX_[type].png`
 where `[type]` = `pain` / `edu` / `proof` / `cta`
 
+### Step 3b — Generate via ChatGPT Image API (DALL-E 3)
+
+After writing the Pillow script (or as the primary generation method), use the OpenAI images API to generate a high-quality version of the poster. This gives better visual results than the coded approach.
+
+**API Key**: Set `OPENAI_API_KEY` as an environment variable — do not hardcode it in this file.
+
+**Python code to generate and save the image:**
+
+```python
+import openai, os, requests
+
+OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]  # set in env, never hardcode
+OUTPUT_DIR = "social-media"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def generate_image(prompt, output_filename):
+    client = openai.OpenAI(api_key=OPENAI_API_KEY)
+    response = client.images.generate(
+        model="dall-e-3",
+        prompt=prompt,
+        size="1024x1024",
+        quality="standard",
+        n=1
+    )
+    image_url = response.data[0].url
+    # Download and save
+    img_data = requests.get(image_url).content
+    with open(os.path.join(OUTPUT_DIR, output_filename), "wb") as f:
+        f.write(img_data)
+    print(f"Saved: {output_filename}")
+    return output_filename
+
+# Usage:
+# generate_image("[THE PROMPT]", "CB-028_pain.png")
+```
+
+**Execute via PowerShell from `marketing_team/` root:**
+```powershell
+$env:OPENAI_API_KEY="your-key-here"; py -c "import openai, os, requests; openai.OpenAI(api_key=os.environ['OPENAI_API_KEY']).images.generate(model='dall-e-3', prompt='YOUR PROMPT HERE', size='1024x1024', quality='standard', n=1)"
+```
+
+**Download the image from the returned URL** — save to `social-media/CB-XXX_[type].png`
+
+> **Note:** If the API call fails or the key is invalid, fall back to the Pillow-coded image as a backup. Always save something to `social-media/` regardless of which path succeeds.
+
 ### Step 4 — Output the AI prompt for external tools
 
 Immediately after the coded image is generated, output a ready-to-copy prompt the user can paste into any AI image tool (Midjourney, DALL-E, Ideogram, Canva AI, Skywork, Adobe Firefly, etc.).
@@ -235,27 +280,43 @@ Bottom: Large violet rounded pill button "[CTA_TEXT]". Small "igenveritas.com" b
 Style: SaaS pricing page aesthetic, WhatChimp packages. Clean, high contrast, scannable.
 ```
 
-### Step 5 — Wait for user to place the image
+### Step 5 — Wait for user to approve the image
 
-After generating the coded image and outputting the AI prompt, say:
+After the DALL-E image is generated and saved to `social-media/CB-XXX_[type].png`, show the user the image path and say:
 
-> "Coded image saved to `social-media/CB-XXX_[type].png`.
-> If you'd rather use an AI-generated version — copy the prompt above, generate it in your preferred tool, and **save the result to `social-media/CB-XXX_[type].png`** (same filename, overwrite it).
-> Say **'approved'** when you're happy with whichever image is there, or **'not approved'** / tell me what to change."
+> "Image saved to `social-media/CB-XXX_[type].png` (generated via DALL-E 3).
+> If you'd like a different version, tell me what to change.
+> Say **'approved'** when you're happy with the image to proceed to caption writing."
 
 **Stop here.** Do not write the caption or proceed until the user explicitly says the image is approved.
 
 ---
 
+### AI Prompt Fallback (Manual Tools)
+
+If the DALL-E API call fails or you want to manually generate elsewhere, also output the filled prompt below for manual copy-paste:
+
+---
+**AI Image Prompt — copy and paste into your preferred tool:**
+```
+[FILLED PROMPT — use the matching template below, all placeholders replaced with actual content]
+```
+**Suggested tools:** Midjourney, DALL-E (ChatGPT), Ideogram, Canva AI, Skywork AI, Adobe Firefly
+**Aspect ratio to set:** 1:1 (square)
+**If using Midjourney:** add `--ar 1:1 --style raw` at the end
+---
+
+---
+
 ## Quality Checklist
 
-Before reporting the coded image as done:
-- [ ] File saved to `social-media/` with correct `CB-XXX_[type].png` filename
-- [ ] Headline readable at thumbnail size
-- [ ] IGEN VERITAS name or `igenveritas.com` visible on the image
-- [ ] Brand colors only — Violet `#7B67D1`, Purple `#8A5DCC`, Blue `#488FE3`/`#4196E6`, Navy `#0B0B14`, White
-- [ ] All text fits within canvas with at least 60px padding from edges
-- [ ] AI prompt was output and all placeholders were filled with actual content
+Before reporting the image as done:
+- [ ] File saved to `social-media/CB-XXX_[type].png` via DALL-E 3 download
+- [ ] Image is 1024x1024 (square 1:1)
+- [ ] IGEN VERITAS branding visible on the image
+- [ ] Brand colors used (Violet `#7B67D1`, Purple `#8A5DCC`, Blue `#488FE3`, Navy `#0B0B14`)
+- [ ] Headline is bold and readable
+- [ ] Fallback AI prompt output only if DALL-E API fails
 
 ---
 
