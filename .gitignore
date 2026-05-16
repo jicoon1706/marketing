@@ -6,6 +6,10 @@
 .env.local
 *.env
 
+# Node
+node_modules/
+npm-debug.log*
+
 # Python cache
 __pycache__/
 *.pyc
