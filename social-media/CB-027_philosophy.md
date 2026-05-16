@@ -1,0 +1,11 @@
+# Void Signal
+
+Space is the argument. The canvas is not a container for content — it is the content. Deep fields of near-black hold a single electrical charge: the word, the phrase, the unavoidable truth. What is left out is as carefully considered as what is placed. Every millimetre of negative space is load-bearing, holding tension the way a drawn bow holds energy before release.
+
+Typography is the only material. No photography, no illustration, no decorative surface. Letters are architecture — their scale, weight, and placement the sole instruments of emotion. The headline does not describe; it occupies. It claims the canvas the way a monolith claims a landscape. Crafted with painstaking attention to spacing and optical balance, each word positioned as though it has always existed in exactly that place.
+
+Color operates as voltage, not decoration. The background is near-void — not black, but the colour of a room just before the lights are fully cut. Against this, white text arrives with the force of fluorescence. Violet and purple are rare, deliberately deployed as the charged element — the live wire in an otherwise grounded circuit. This restraint is the product of deep expertise; only someone who has worked with chromatic tension for years knows when to withhold and when to release.
+
+Rhythm is established through opposition. Two statements face each other across a slender divider — one neutral, one electric. The composition reads as a before/after, a thesis and its reversal. The eye moves through this architecture in a single, inevitable sweep: down the white, across the line, into the violet. Every typographic decision — tracking, leading, alignment — refined with the care of a master craftsman working through countless iterations toward the one perfect form.
+
+The CTA is a functional artifact, not an afterthought. A pill of controlled violet, precise in its proportions, sitting below the composition like a seal on a document. It does not shout. It simply exists as the logical conclusion of everything above it. The whole piece — from the ghost of a rule at the top to the quiet brand mark at the foot — is a single, meticulous argument expressed without decoration.
