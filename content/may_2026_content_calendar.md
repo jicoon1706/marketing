@@ -84,7 +84,7 @@
   - Mobile apps built for real users
   - Design that looks as good as it performs
 
-  Ready to see what we can build for you? DM us or visit igenveritas.com
+  Ready to see what we can build for you? DM us or visit igen-veritas.com
 
   #IGenVeritas #MalaysiaTech #KualaLumpur #Selangor #StartupMalaysia #WebDevelopment #AIchatbot #DigitalTransformation #TechForBusiness #MalaysiaEntrepreneur
 - **Visual Direction:** Dark navy background, IGEN VERITAS logo centred, tagline below in white, violet (#7b67d1) accent strip at bottom. Clean and minimal — brand introduction tone.
@@ -442,7 +442,7 @@
 
   We build in React and Laravel — responsive, clean, and designed to convert.
 
-  DM us "WEB" or visit igenveritas.com to get started.
+  DM us "WEB" or visit igen-veritas.com to get started.
 
   #WebDevelopment #MobileApp #MalaysiaTech #DigitalPresence #AppDevelopment #KualaLumpur #IGenVeritas #StartupMalaysia #UIDesign #BusinessGrowth
 - **Visual Direction:** Clean split layout — left: outdated website mockup (low contrast, cluttered); right: modern IGEN VERITAS-style website (clean, fast-loading feel). Bold hook text top. Violet accent divider between the two sides.

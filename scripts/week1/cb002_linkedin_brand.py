@@ -40,7 +40,7 @@ draw.text((921, 68), "LinkedIn", fill=(255, 255, 255, 200), font=get_font(18, "r
 
 # Top brand label
 draw.text((60, 58), "IGEN VERITAS", fill=(255, 255, 255, 200), font=get_font(22, "bold"))
-draw.text((60, 88), "igenveritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"))
+draw.text((60, 88), "igen-veritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"))
 
 # Violet accent bar left edge
 draw.rounded_rectangle([58, 160, 66, 420], radius=4, fill=(123, 103, 209, 255))

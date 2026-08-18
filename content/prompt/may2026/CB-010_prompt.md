@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Headline (centered, large bold white):**
 - Line 1: "5 Things an AI Chatbot Does"
@@ -39,7 +39,7 @@ Work 365 days — no leave, no sick days, no delays
 "DM 'BOT' to see which plan fits you"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

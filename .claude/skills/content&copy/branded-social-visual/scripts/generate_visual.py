@@ -117,7 +117,7 @@ def template_pain_point(headline, subtext, cta, filename):
     brand_font = _font(22, "bold")
     url_font   = _font(18, "light")
     draw.text((60, 58), "IGEN VERITAS", font=brand_font, fill=WHITE)
-    draw.text((60, 88), "igenveritas.com", font=url_font, fill=BODY_GRAY)
+    draw.text((60, 88), "igen-veritas.com", font=url_font, fill=BODY_GRAY)
 
     # Thin accent line under brand
     draw.rectangle([60, 116, 260, 118], fill=(*VIOLET[:3], 180))
@@ -192,7 +192,7 @@ def template_pain_point(headline, subtext, cta, filename):
     draw.text((540, 906), cta, font=cta_font, fill=WHITE, anchor="mm")
 
     # ── Bottom brand strip ────────────────────────────────────────────────────
-    draw.text((540, 990), "igenveritas.com  •  Powering businesses with AI",
+    draw.text((540, 990), "igen-veritas.com  •  Powering businesses with AI",
               font=_font(16, "light"), fill=BODY_GRAY, anchor="mm")
 
     out = os.path.join(OUTPUT_DIR, filename)
@@ -292,7 +292,7 @@ def template_education(headline, subtext, features, filename):
         sy += 44
 
     # ── Bottom credibility ───────────────────────────────────────────────────
-    draw.text((540, 990), "igenveritas.com  •  AI that works while you sleep",
+    draw.text((540, 990), "igen-veritas.com  •  AI that works while you sleep",
               font=_font(17, "light"), fill=(255, 255, 255, 150), anchor="mm")
 
     out = os.path.join(OUTPUT_DIR, filename)
@@ -410,7 +410,7 @@ def template_proof(headline, subtext, chat_lines, stats, filename):
         sy += 42
 
     # ── Bottom ────────────────────────────────────────────────────────────────
-    draw.text((540, 1010), "igenveritas.com",
+    draw.text((540, 1010), "igen-veritas.com",
               font=_font(18, "light"), fill=BODY_GRAY, anchor="mm")
 
     out = os.path.join(OUTPUT_DIR, filename)
@@ -557,7 +557,7 @@ def template_cta(headline, subtext, cta, filename):
                   fill=(*WHITE[:3], 160))
 
     # ── Bottom ────────────────────────────────────────────────────────────────
-    draw.text((540, 1010), "igenveritas.com  •  +60 17 310 3966",
+    draw.text((540, 1010), "igen-veritas.com  •  +60 17 310 3966",
               font=_font(17, "light"), fill=BODY_GRAY, anchor="mm")
 
     out = os.path.join(OUTPUT_DIR, filename)

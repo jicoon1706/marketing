@@ -52,10 +52,10 @@ def draw_radial_glow(draw, cx, cy, max_r, color_rgb, max_alpha=40):
 # ─── Shared decorators ────────────────────────────────────────────────────────
 def brand_top(draw):
     draw.text((60, 48), "IGEN VERITAS", fill=WHITE, font=fnt(30, "bold"))
-    draw.text((60, 86), "igenveritas.com", fill=BODY_GRAY, font=fnt(22, "regular"))
+    draw.text((60, 86), "igen-veritas.com", fill=BODY_GRAY, font=fnt(22, "regular"))
 
 def brand_bottom(draw):
-    draw.text((540, 1048), "igenveritas.com  ·  info@igenveritas.com", fill=BODY_GRAY,
+    draw.text((540, 1048), "igen-veritas.com  ·  igenveritas@gmail.com", fill=BODY_GRAY,
               font=fnt(22, "regular"), anchor="mm")
 
 def pill_button(draw, cx, cy, w, h, color, text, font_size=28):

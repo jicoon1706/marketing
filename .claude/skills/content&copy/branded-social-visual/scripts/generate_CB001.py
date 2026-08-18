@@ -95,7 +95,7 @@ draw.text((CX, CY), "IV", fill=(*WHITE, 255), font=font_iv, anchor="mm")
 font_wm = get_font(20, "regular")
 font_wm_sm = get_font(15, "regular")
 draw.text((54, 42), "IGEN VERITAS", fill=(*WHITE, 255), font=font_wm, anchor="lt")
-draw.text((54, 68), "igenveritas.com", fill=(*BODY_GRAY, 255), font=font_wm_sm, anchor="lt")
+draw.text((54, 68), "igen-veritas.com", fill=(*BODY_GRAY, 255), font=font_wm_sm, anchor="lt")
 
 # "IGEN" violet
 font_name = get_font(80, "bold")

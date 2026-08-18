@@ -157,7 +157,7 @@ draw.text((540, 983), "DM us — find out how it works",
 
 # Brand tag
 draw.text((60, 1042), "IGEN VERITAS", fill=(255, 255, 255, 140), font=get_font(16, "regular"))
-draw.text((1020, 1042), "igenveritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"), anchor="ra")
+draw.text((1020, 1042), "igen-veritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"), anchor="ra")
 
 os.makedirs("social-media", exist_ok=True)
 img = img.convert("RGB")

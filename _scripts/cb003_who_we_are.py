@@ -35,7 +35,7 @@ for i in range(6):
 
 # Brand watermark
 draw.text((48, 38), "IGEN VERITAS", fill=(255, 255, 255, 195), font=get_font(20))
-draw.text((48, 64), "igenveritas.com", fill=(255, 255, 255, 135), font=get_font(15))
+draw.text((48, 64), "igen-veritas.com", fill=(255, 255, 255, 135), font=get_font(15))
 
 # "1 of 4" pill top-right
 pill1 = Image.new("RGBA", (W, H), (0, 0, 0, 0))
@@ -84,7 +84,7 @@ for y in range(948, H):
     draw.line([(0, y), (W, y)], fill=(11, 11, 20, int(185 * t)))
 draw.text((540, 1008), "Intelligent Solutions  ·  Cutting-Edge Technology",
           fill=(255, 255, 255, 195), font=get_font(20), anchor="mm")
-draw.text((540, 1048), "igenveritas.com", fill=(255, 255, 255, 155), font=get_font(18), anchor="mm")
+draw.text((540, 1048), "igen-veritas.com", fill=(255, 255, 255, 155), font=get_font(18), anchor="mm")
 
 os.makedirs("social-media", exist_ok=True)
 img.convert("RGB").save("social-media/20260505_awareness_CB003_who_we_are.png", "PNG")

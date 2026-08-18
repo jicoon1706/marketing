@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Service badge (top-right):**
 Blue pill badge: "Mobile App"
@@ -42,7 +42,7 @@ Right choice for 90% of SME projects
 "DM 'APP' to discuss your project"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

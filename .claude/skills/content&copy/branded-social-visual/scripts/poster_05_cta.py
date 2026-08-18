@@ -32,7 +32,7 @@ def font(size, weight="regular"):
 
 # --- Brand label ---
 draw.text((60, 52), "IGEN VERITAS", fill=(255, 255, 255, 210), font=font(22, "bold"))
-draw.text((60, 80), "igenveritas.com", fill=(255, 255, 255, 130), font=font(18))
+draw.text((60, 80), "igen-veritas.com", fill=(255, 255, 255, 130), font=font(18))
 
 # --- Headline ---
 draw.text((540, 156), "Pilih Pakej.", fill=(255, 255, 255, 255), font=font(84, "bold"), anchor="mm")
@@ -139,7 +139,7 @@ draw.text((540, 854), "DM 'INFO' sekarang  →", fill=(123, 103, 209, 255), font
 # --- Bottom strip ---
 draw.line([(60, 920), (1020, 920)], fill=(255, 255, 255, 30), width=1)
 draw.text((540, 950), "📱  +60 17 310 3966", fill=(255, 255, 255, 180), font=font(22, "bold"), anchor="mm")
-draw.text((540, 988), "info@igenveritas.com  |  igenveritas.com",
+draw.text((540, 988), "igenveritas@gmail.com  |  igen-veritas.com",
     fill=(255, 255, 255, 120), font=font(18), anchor="mm")
 draw.text((540, 1030), "IGEN VERITAS — Powering businesses with intelligent solutions",
     fill=(255, 255, 255, 100), font=font(16), anchor="mm")

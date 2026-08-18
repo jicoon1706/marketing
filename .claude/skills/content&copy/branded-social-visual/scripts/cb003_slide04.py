@@ -57,7 +57,7 @@ VIOLET = "#7B67D1"
 VIOLET_RGB = hex_to_rgb(VIOLET)
 
 draw.text((60, 48), "IGEN VERITAS", font=font(22, "bold"), fill=(255, 255, 255, 255))
-draw.text((60, 76), "igenveritas.com", font=font(17, "regular"), fill=(180, 170, 220, 180))
+draw.text((60, 76), "igen-veritas.com", font=font(17, "regular"), fill=(180, 170, 220, 180))
 
 # page counter "4 / 4" — muted violet, right-aligned
 counter_text = "4 / 4"

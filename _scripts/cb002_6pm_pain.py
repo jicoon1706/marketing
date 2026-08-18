@@ -20,7 +20,7 @@ for y in range(H):
 
 # Brand watermark
 draw.text((48, 38), "IGEN VERITAS", fill=(255, 255, 255, 175), font=get_font(18))
-draw.text((48, 62), "igenveritas.com", fill=(107, 114, 128, 160), font=get_font(14))
+draw.text((48, 62), "igen-veritas.com", fill=(107, 114, 128, 160), font=get_font(14))
 
 # Headline
 draw.text((540, 110), "Your business closes at 6PM.", fill=(255, 255, 255, 255), font=get_font(44, "bold"), anchor="mm")
@@ -118,7 +118,7 @@ draw = ImageDraw.Draw(img)
 draw.text((540, 971), "DM us — find out how it works", fill=(255, 255, 255, 255), font=get_font(22, "bold"), anchor="mm")
 
 draw.text((60, 1038), "IGEN VERITAS", fill=(255, 255, 255, 175), font=get_font(17))
-draw.text((862, 1038), "igenveritas.com", fill=(107, 114, 128, 175), font=get_font(16))
+draw.text((862, 1038), "igen-veritas.com", fill=(107, 114, 128, 175), font=get_font(16))
 
 os.makedirs("social-media", exist_ok=True)
 img.convert("RGB").save("social-media/20260503_pain_CB002_business_closes_6pm.png", "PNG")

@@ -27,7 +27,7 @@
 - Link in bio to see our packages
 - Comment "INFO" and we'll reach out
 - WhatsApp us at +60 17 310 3966
-- Visit igenveritas.com
+- Visit igen-veritas.com
 
 ---
 
@@ -92,7 +92,7 @@ Here's what an AI Sales Agent does for your business:
 
 The technology exists. The question is whether you'll use it first.
 
-Ready to automate? Visit igenveritas.com
+Ready to automate? Visit igen-veritas.com
 
 #IGenVeritas #AIAutomation #MalaysiaTech #WhatsAppMarketing #DigitalTransformation
 ```

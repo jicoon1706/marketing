@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Headline (centered, large bold white):**
 - Line 1: "Before: 0 Replies After Hours."
@@ -43,7 +43,7 @@ Week 1: 11 leads captured, 7 converted to consultations.
 "DM 'BOT' to get yours built this month"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

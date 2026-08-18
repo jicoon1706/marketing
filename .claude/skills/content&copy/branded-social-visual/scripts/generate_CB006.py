@@ -49,7 +49,7 @@ draw = ImageDraw.Draw(img)
 
 # ── Brand Watermark (top-left) ─────────────────────────────────────────────────
 draw.text((54, 42), "IGEN VERITAS", fill=(*WHITE, 200), font=get_font(20, "regular"), anchor="lt")
-draw.text((54, 68), "igenveritas.com", fill=(*BODY_GRAY, 255), font=get_font(15, "regular"), anchor="lt")
+draw.text((54, 68), "igen-veritas.com", fill=(*BODY_GRAY, 255), font=get_font(15, "regular"), anchor="lt")
 
 # ── Headline Block (y: 100–480) ────────────────────────────────────────────────
 draw.text((540, 130), "Every Unanswered", fill=(*WHITE, 255), font=get_font(72, "bold"), anchor="mm")

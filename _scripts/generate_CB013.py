@@ -295,7 +295,7 @@ def build():
     draw.ellipse([220, FT + 38, 228, FT + 46], fill=VIOLET)
 
     # domain right-aligned
-    domain = "igenveritas.com"
+    domain = "igen-veritas.com"
     bb = draw.textbbox((0,0), domain, font=f_domain)
     dw = bb[2] - bb[0]
     draw.text((W - 60 - dw, FT + 36), domain, font=f_domain, fill=BODY_GRAY + (200,))

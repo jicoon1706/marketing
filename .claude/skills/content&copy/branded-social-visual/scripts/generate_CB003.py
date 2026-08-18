@@ -50,7 +50,7 @@ for i in range(6):
 
 # ── Brand Watermark (top-left) ─────────────────────────────────────────────────
 draw.text((54, 34), "IGEN VERITAS", fill=(*WHITE, 196), font=get_font(20, "regular"), anchor="lt")
-draw.text((54, 60), "igenveritas.com", fill=(*WHITE, 135), font=get_font(15, "regular"), anchor="lt")
+draw.text((54, 60), "igen-veritas.com", fill=(*WHITE, 135), font=get_font(15, "regular"), anchor="lt")
 
 # ── "1 of 4" Pill (top-right) ─────────────────────────────────────────────────
 img = alpha_rect(img, [930, 34, 1046, 70], radius=18,
@@ -104,7 +104,7 @@ draw = ImageDraw.Draw(img)
 
 draw.text((540, 1008), "Intelligent Solutions  ·  Cutting-Edge Technology",
           fill=(*WHITE, 200), font=get_font(20, "regular"), anchor="mm")
-draw.text((540, 1048), "igenveritas.com", fill=(*WHITE, 180), font=get_font(18, "regular"), anchor="mm")
+draw.text((540, 1048), "igen-veritas.com", fill=(*WHITE, 180), font=get_font(18, "regular"), anchor="mm")
 
 # Save
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)

@@ -42,7 +42,7 @@ draw = ImageDraw.Draw(img)
 
 # Brand tag top-left
 draw.text((60, 58), "IGEN VERITAS", fill=(255, 255, 255, 160), font=get_font(20, "regular"))
-draw.text((60, 86), "igenveritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"))
+draw.text((60, 86), "igen-veritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"))
 
 # "Quick question:" label
 draw.rounded_rectangle([60, 160, 310, 200], radius=16, fill=(123, 103, 209, 80),

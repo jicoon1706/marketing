@@ -59,7 +59,7 @@ for y in range(0, 1080, 120):
 
 # Brand watermark
 draw.text((54, 42), "IGEN VERITAS", fill=(*WHITE, 200), font=get_font(20, "regular"), anchor="lt")
-draw.text((54, 68), "igenveritas.com", fill=(*LAVENDER, 180), font=get_font(15, "regular"), anchor="lt")
+draw.text((54, 68), "igen-veritas.com", fill=(*LAVENDER, 180), font=get_font(15, "regular"), anchor="lt")
 
 # Main CTA copy — stacked for impact
 draw.text((540, 200), "You've Been Thinking", fill=(*WHITE, 255), font=get_font(66, "bold"), anchor="mm")

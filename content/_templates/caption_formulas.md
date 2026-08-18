@@ -53,7 +53,7 @@ An AI chatbot handles: initial enquiry, FAQ, lead qualification, and booking —
 
 If your business relies on WhatsApp or a contact form, this is worth a look.
 
-Comment "DEMO" or visit igenveritas.com to see our packages.
+Comment "DEMO" or visit igen-veritas.com to see our packages.
 
 #DigitalTransformation #MalaysiaTech #AIchatbot #StartupMalaysia #BusinessAutomation
 
@@ -123,7 +123,7 @@ Here's what an AI chatbot actually does in a real Malaysian SME setup:
 
 The ROI isn't theoretical. If you close even 2 extra leads a month, the setup pays for itself.
 
-IGEN VERITAS offers three tiers — Basic (RM 500 setup), Growth, and Pro. Drop a comment or visit igenveritas.com.
+IGEN VERITAS offers three tiers — Basic (RM 500 setup), Growth, and Pro. Drop a comment or visit igen-veritas.com.
 
 #DigitalTransformation #AIchatbot #MalaysiaTech #SME #BusinessAutomation
 
@@ -271,7 +271,7 @@ Pro — RM 2,000 setup / RM 500 monthly: Full automation suite, advanced flows, 
 
 Every package includes setup, onboarding, and ongoing support.
 
-If you're evaluating chatbot solutions, I'm happy to share what fits your use case. Comment "PACKAGE" or visit igenveritas.com.
+If you're evaluating chatbot solutions, I'm happy to share what fits your use case. Comment "PACKAGE" or visit igen-veritas.com.
 
 #AIchatbot #MalaysiaTech #DigitalTransformation #SME #IGenVeritas
 
@@ -334,7 +334,7 @@ The process:
 
 Packages start at RM 500 setup + RM 150/month.
 
-If you're ready to move past "thinking about it," send me a message or visit igenveritas.com.
+If you're ready to move past "thinking about it," send me a message or visit igen-veritas.com.
 
 #AIchatbot #MalaysiaTech #DigitalTransformation #BusinessAutomation #IGenVeritas
 

@@ -105,7 +105,7 @@ Instagram marketing poster for IGEN VERITAS, Malaysian AI tech company.
 Square 1:1 format. Dark dramatic mood.
 
 Background: Very dark navy, soft violet-purple radial glow at center-left.
-Top-left: Small white label "IGEN VERITAS" and "igenveritas.com".
+Top-left: Small white label "IGEN VERITAS" and "igen-veritas.com".
 Center-top: Bold white headline — "Pelanggan tunggu." / "You tidur."
 one word highlighted violet.
 Center: Dark frosted glass card — clock "2:47 AM", red dot "0 leads captured".

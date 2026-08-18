@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Headline (centered, large bold white):**
 - Line 1: "May 2026 Recap:"
@@ -43,7 +43,7 @@ Website project: 5-day launch, fully responsive + mobile-first.
 "DM 'START' — June build slots now open"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

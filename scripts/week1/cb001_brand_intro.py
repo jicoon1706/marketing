@@ -51,7 +51,7 @@ def get_font(size, weight="regular"):
 
 # Top-left brand tag
 draw.text((60, 58), "IGEN VERITAS", fill=(255, 255, 255, 160), font=get_font(20, "regular"))
-draw.text((60, 86), "igenveritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"))
+draw.text((60, 86), "igen-veritas.com", fill=(107, 114, 128, 255), font=get_font(15, "regular"))
 
 # Logo mark — outer ring
 cx, cy = 540, 360

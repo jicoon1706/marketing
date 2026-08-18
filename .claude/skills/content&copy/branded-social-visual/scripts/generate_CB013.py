@@ -44,7 +44,7 @@ draw = ImageDraw.Draw(img)
 
 # Brand watermark
 draw.text((54, 42), "IGEN VERITAS", fill=(*WHITE, 200), font=get_font(20, "regular"), anchor="lt")
-draw.text((54, 68), "igenveritas.com", fill=(*BODY_GRAY, 255), font=get_font(15, "regular"), anchor="lt")
+draw.text((54, 68), "igen-veritas.com", fill=(*BODY_GRAY, 255), font=get_font(15, "regular"), anchor="lt")
 
 # "1 of 5" badge
 img = alpha_rect(img, [888, 34, 1026, 68], radius=16,

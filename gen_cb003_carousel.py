@@ -74,7 +74,7 @@ def branding(draw, slide_num, total=4):
 
     draw.text((EDGE, EDGE), "IGEN VERITAS", font=f_brand,
               fill=(*LIGHT_VIOLET, 230))
-    draw.text((EDGE, EDGE + 28), "igenveritas.com", font=f_url,
+    draw.text((EDGE, EDGE + 28), "igen-veritas.com", font=f_url,
               fill=(*BODY_GRAY, 200))
 
     counter = f"{slide_num} / {total}"

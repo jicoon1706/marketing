@@ -12,8 +12,8 @@
 | **Tagline** | Powering the future with intelligent solutions and cutting-edge technology |
 | **Industry** | AI, Web & Mobile App Development |
 | **Location** | Batu Caves, Selangor, Malaysia |
-| **Website** | igenveritas.com |
-| **Email** | info@igenveritas.com / igenveritas@gmail.com |
+| **Website** | igen-veritas.com |
+| **Email** | igenveritas@gmail.com |
 | **Phone** | +60 17 310 3966 |
 
 **IGEN** = New generation spirit — curious, adaptive, innovative.

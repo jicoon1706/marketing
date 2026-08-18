@@ -90,7 +90,7 @@ def generate_cb001():
     # Top branding bar
     font_small = get_font(22, "regular")
     draw.text((60, 58), "IGEN VERITAS", fill=(*WHITE, 200), font=font_small)
-    draw.text((60, 84), "igenveritas.com", fill=(*BODY_GRAY, 200), font=font_small)
+    draw.text((60, 84), "igen-veritas.com", fill=(*BODY_GRAY, 200), font=font_small)
 
     # Decorative thin horizontal line under branding
     draw_divider_line(draw, 60, 118, 1020, alpha=40)
@@ -159,7 +159,7 @@ def generate_cb001():
 
     # Bottom watermark
     font_wm = get_font(20, "light")
-    draw.text((540, 1030), "igenveritas.com  |  AI · Web · Mobile", fill=(*BODY_GRAY, 180),
+    draw.text((540, 1030), "igen-veritas.com  |  AI · Web · Mobile", fill=(*BODY_GRAY, 180),
               font=font_wm, anchor="mm")
 
     out_path = os.path.join(OUTPUT_DIR, "CB-001_instagram_awareness_brand_intro.png")
@@ -246,7 +246,7 @@ def generate_cb002():
     font_cta = get_font(24, "bold")
     font_url = get_font(22, "regular")
     draw.text((60, 938), "🔗 DM us to learn more", fill=(*WHITE, 210), font=font_cta)
-    draw.text((60, 978), "igenveritas.com  ·  info@igenveritas.com  ·  +60 17 310 3966",
+    draw.text((60, 978), "igen-veritas.com  ·  igenveritas@gmail.com  ·  +60 17 310 3966",
               fill=(*BODY_GRAY, 180), font=font_url)
 
     out_path = os.path.join(OUTPUT_DIR, "CB-002_linkedin_awareness_brand_graphic.png")
@@ -268,7 +268,7 @@ def generate_cb003():
     # Top branding
     font_brand = get_font(22, "regular")
     draw.text((60, 54), "IGEN VERITAS", fill=(*WHITE, 180), font=font_brand)
-    draw.text((1020, 54), "igenveritas.com", fill=(*BODY_GRAY, 160),
+    draw.text((1020, 54), "igen-veritas.com", fill=(*BODY_GRAY, 160),
               font=get_font(20, "regular"), anchor="ra")
     draw_divider_line(draw, 60, 90, 1020, alpha=35)
 

@@ -111,7 +111,7 @@ Choose the template based on the post type. If not specified, infer from the hea
   - 3–4 feature bullet points (white, 13px, checkmark prefix ✓)
   - Highlight the **Growth** card with a Violet `#7B67D1` glow border as "Most Popular"
 - Bottom: CTA button — Violet pill, "DM 'INFO' sekarang" in white bold text
-- Bottom-right: `igenveritas.com` in small Body Gray
+- Bottom-right: `igen-veritas.com` in small Body Gray
 
 **Vibe reference**: WhatChimp "24/7 AI Agent Available" with feature pills
 
@@ -230,7 +230,7 @@ Instagram marketing poster for IGEN VERITAS, a Malaysian AI tech company. Square
 
 Mood: Dark, dramatic, emotionally urgent. Modern tech startup aesthetic.
 Background: Very dark navy almost black, with a soft violet-purple radial glow at center-left.
-Top-left: Small white label "IGEN VERITAS" and "igenveritas.com".
+Top-left: Small white label "IGEN VERITAS" and "igen-veritas.com".
 Center-top: Bold white sans-serif headline 2 lines, one keyword highlighted violet-purple:
 "[HEADLINE_LINE_1]"
 "[HEADLINE_LINE_2]"
@@ -276,7 +276,7 @@ Center: Three pricing cards side by side, dark frosted glass style:
   Left — "Basic" / "RM 500 setup" / "RM 150/mo" / [BASIC_FEATURES]
   Middle — "Growth" / "RM 1,000 setup" / "RM 300/mo" / [GROWTH_FEATURES] — glowing violet border, "Most Popular" badge
   Right — "Pro" / "RM 2,000 setup" / "RM 500/mo" / [PRO_FEATURES]
-Bottom: Large violet rounded pill button "[CTA_TEXT]". Small "igenveritas.com" bottom-right.
+Bottom: Large violet rounded pill button "[CTA_TEXT]". Small "igen-veritas.com" bottom-right.
 Style: SaaS pricing page aesthetic, WhatChimp packages. Clean, high contrast, scannable.
 ```
 

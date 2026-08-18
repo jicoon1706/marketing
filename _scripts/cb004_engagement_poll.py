@@ -40,7 +40,7 @@ draw = ImageDraw.Draw(img)
 
 # Brand tag
 draw.text((48, 38), "IGEN VERITAS", fill=(255, 255, 255, 155), font=get_font(20))
-draw.text((48, 64), "igenveritas.com", fill=(107, 114, 128, 155), font=get_font(15))
+draw.text((48, 64), "igen-veritas.com", fill=(107, 114, 128, 155), font=get_font(15))
 
 # "Quick question:" pill
 qpill = Image.new("RGBA", (W, H), (0, 0, 0, 0))

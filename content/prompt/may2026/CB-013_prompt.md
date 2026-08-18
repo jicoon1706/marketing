@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Service badge (top-right):**
 Blue pill badge: "Web Dev"
@@ -42,7 +42,7 @@ Works as your 24/7 sales rep when you're unavailable
 "DM 'WEB' to get started"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

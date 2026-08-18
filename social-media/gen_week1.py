@@ -140,7 +140,7 @@ def post1_awareness():
 
     # ── Website footer ──
     web_f = font(24, "regular")
-    centered_text(draw, 950, "igenveritas.com  ·  +60 17 310 3966", web_f, (107, 114, 128, 200))
+    centered_text(draw, 950, "igen-veritas.com  ·  +60 17 310 3966", web_f, (107, 114, 128, 200))
 
     out = os.path.join(OUT_DIR, "20260501_awareness_brand_intro.png")
     img.save(out, "PNG")
@@ -174,7 +174,7 @@ def post2_pain():
     bf = font(28, "bold")
     draw.text((60, 70), "IGEN VERITAS", font=bf, fill=(255, 255, 255, 180))
     wf = font(22, "regular")
-    draw.text((60, 108), "igenveritas.com", font=wf, fill=(107, 114, 128, 180))
+    draw.text((60, 108), "igen-veritas.com", font=wf, fill=(107, 114, 128, 180))
 
     # ── Main headline — 2 lines ──
     h1 = font(98, "bold")

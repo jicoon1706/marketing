@@ -26,7 +26,7 @@ def font(size, weight="regular"):
 
 # --- Brand label ---
 draw.text((60, 58), "IGEN VERITAS", fill=(255, 255, 255, 200), font=font(22, "bold"))
-draw.text((60, 86), "igenveritas.com", fill=(255, 255, 255, 130), font=font(18))
+draw.text((60, 86), "igen-veritas.com", fill=(255, 255, 255, 130), font=font(18))
 
 # --- Headline ---
 draw.text((540, 178), "Lead Masuk,", fill=(255, 255, 255, 255), font=font(82, "bold"), anchor="mm")

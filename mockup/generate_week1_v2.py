@@ -76,7 +76,7 @@ def pill(draw, cx, cy, text, txt_font, bg, txt_color=WHITE, pad_x=28, pad_y=14):
 def rule(draw, x1, y, x2, a=40):
     draw.line([(x1, y), (x2, y)], fill=(255, 255, 255, a), width=1)
 
-def branding_top(draw, left_label="IGEN VERITAS", right_label="igenveritas.com"):
+def branding_top(draw, left_label="IGEN VERITAS", right_label="igen-veritas.com"):
     draw.text((60, 52), left_label, fill=(*WHITE, 200), font=font(22, "bold"))
     draw.text((1020, 52), right_label, fill=(*BODY_GRAY, 180),
               font=font(20, "regular"), anchor="ra")
@@ -245,8 +245,8 @@ def cb002():
 
     # ── Contact strip ────────────────────────────────────────
     contact_items = [
-        ("🔗 igenveritas.com", 60),
-        ("✉  info@igenveritas.com", 380),
+        ("🔗 igen-veritas.com", 60),
+        ("✉  igenveritas@gmail.com", 380),
         ("📞  +60 17-310 3966", 740),
     ]
     for txt, x in contact_items:

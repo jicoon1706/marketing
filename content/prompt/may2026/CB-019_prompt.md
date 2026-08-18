@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Service badge (top-right):**
 Blue pill badge: "UI/UX"
@@ -42,7 +42,7 @@ Makes your brand look like it belongs in 2026
 "DM 'DESIGN' for a free website review"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

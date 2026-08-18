@@ -150,7 +150,7 @@ draw.line([(MARGIN, bottom_rule_y), (W - MARGIN, bottom_rule_y)], fill=(*VIOLET,
 brand_y = H - 52
 draw.text((MARGIN, brand_y), "IGEN VERITAS", font=f_mono, fill=MUTED)
 
-site = "igenveritas.com"
+site = "igen-veritas.com"
 draw.text((W - MARGIN - text_w(draw, site, f_mono), brand_y), site, font=f_mono, fill=MUTED)
 
 img.save(OUT, "PNG", dpi=(300, 300))

@@ -49,7 +49,7 @@ draw.line([(W, 600), (W-500, H)], fill=(123, 103, 209, 10), width=1)
 
 # Brand watermark top-left
 draw.text((48, 38), "IGEN VERITAS", fill=(255, 255, 255, 190), font=get_font(20))
-draw.text((48, 64), "igenveritas.com", fill=(107, 114, 128, 190), font=get_font(15))
+draw.text((48, 64), "igen-veritas.com", fill=(107, 114, 128, 190), font=get_font(15))
 
 # Circular emblem at (540, 360)
 cx, cy = 540, 360

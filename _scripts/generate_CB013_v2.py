@@ -251,7 +251,7 @@ def draw_modern_site(draw, img, x, y, w, h, fonts):
     # -- footer: clean
     ft_y = y + h - 22
     draw.rectangle([x, ft_y, x+w, y+h], fill=(30,20,60))
-    draw.text((x+8, ft_y+4), "IGEN VERITAS  ·  igenveritas.com  ·  +60 17 310 3966", font=f_sm, fill=(180,170,210))
+    draw.text((x+8, ft_y+4), "IGEN VERITAS  ·  igen-veritas.com  ·  +60 17 310 3966", font=f_sm, fill=(180,170,210))
 
 
 # ── MAIN ─────────────────────────────────────────────────────────────────────
@@ -349,7 +349,7 @@ def build():
         draw, BROWSER_X_R, CHROME_Y_R, BROWSER_W_R,
         bg=(245, 244, 248),
         dot_colors=dot_colors_new,
-        url_text="https://igenveritas.com",
+        url_text="https://igen-veritas.com",
         url_bg=(255, 255, 255),
         f_url=f_url
     )
@@ -406,8 +406,8 @@ def build():
 
     draw.text((60, FT + 26), "IGEN VERITAS", font=f_brand, fill=(*WHITE, 240))
     draw.ellipse([224, FT + 36, 232, FT + 44], fill=VIOLET)
-    bb = draw.textbbox((0,0), "igenveritas.com", font=f_domain)
-    draw.text((W - 60 - (bb[2]-bb[0]), FT + 34), "igenveritas.com", font=f_domain, fill=(*BODY_GRAY, 200))
+    bb = draw.textbbox((0,0), "igen-veritas.com", font=f_domain)
+    draw.text((W - 60 - (bb[2]-bb[0]), FT + 34), "igen-veritas.com", font=f_domain, fill=(*BODY_GRAY, 200))
     draw.text((60, FT + 70), "Intelligent Solutions  ·  Web & Mobile  ·  AI Automation", font=f_tagline, fill=(*BODY_GRAY, 160))
 
     # ── SAVE ─────────────────────────────────────────────────────────────

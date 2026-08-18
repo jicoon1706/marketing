@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Headline (centered, large bold white):**
 - Line 1: "POV: It's 2AM."
@@ -39,7 +39,7 @@ You wake up to a filled inbox — not a missed sale
 "DM 'BOT' — Basic from RM500 setup"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

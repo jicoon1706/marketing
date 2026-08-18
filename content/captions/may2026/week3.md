@@ -124,7 +124,7 @@ Here's what a well-built website actually does for your business:
 
 We build in React and Laravel — responsive, clean, and designed to convert.
 
-DM us "WEB" or visit igenveritas.com to get started.
+DM us "WEB" or visit igen-veritas.com to get started.
 
 #WebDevelopment #MobileApp #MalaysiaTech #DigitalPresence #AppDevelopment #KualaLumpur #IGenVeritas #StartupMalaysia #UIDesign #BusinessGrowth
 

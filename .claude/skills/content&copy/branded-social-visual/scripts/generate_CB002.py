@@ -167,7 +167,7 @@ draw.text((540, 971), "DM us — find out how it works", fill=(*WHITE, 255), fon
 
 # Brand footer
 draw.text((54, 1040), "IGEN VERITAS", fill=(*WHITE, 160), font=get_font(16, "regular"), anchor="lm")
-draw.text((1026, 1040), "igenveritas.com", fill=(*BODY_GRAY, 255), font=get_font(15, "regular"), anchor="rm")
+draw.text((1026, 1040), "igen-veritas.com", fill=(*BODY_GRAY, 255), font=get_font(15, "regular"), anchor="rm")
 
 # Save
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)

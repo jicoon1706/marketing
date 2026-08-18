@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Headline (centered, large bold):**
 - Line 1: "5 Signs Your Business" — white
@@ -40,7 +40,7 @@ White semi-transparent rounded card containing 5 bullet lines:
 "DM 'LEADS' to see the fix"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

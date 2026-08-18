@@ -108,7 +108,7 @@ for i, (val, lbl) in enumerate(stats):
     draw.text((sx, strip_y + 58), lbl, fill=(255, 255, 255, 160), font=font(18), anchor="mm")
 
 # --- Bottom brand ---
-draw.text((540, 1010), "IGEN VERITAS  |  igenveritas.com  |  +60 17 310 3966",
+draw.text((540, 1010), "IGEN VERITAS  |  igen-veritas.com  |  +60 17 310 3966",
     fill=(255, 255, 255, 140), font=font(17), anchor="mm")
 
 img.save(OUT, "PNG")

@@ -54,7 +54,7 @@ draw = ImageDraw.Draw(img)
 
 # ── Brand Watermark (above top bar) ──────────────────────────────────────────
 draw.text((54, 20), "IGEN VERITAS", fill=(*WHITE, 160), font=get_font(18, "regular"), anchor="lt")
-draw.text((54, 44), "igenveritas.com", fill=(*BODY_GRAY, 200), font=get_font(13, "regular"), anchor="lt")
+draw.text((54, 44), "igen-veritas.com", fill=(*BODY_GRAY, 200), font=get_font(13, "regular"), anchor="lt")
 
 # ── Cinematic Letterbox Bars ──────────────────────────────────────────────────
 # Top bar
@@ -118,7 +118,7 @@ draw.text((218, 840), "\"Nak tanya pasal servis korang...\"", fill=(*WHITE, 255)
 draw.text((920, 827), "2:17 AM", fill=(*BODY_GRAY, 255), font=get_font(18, "regular"), anchor="rm")
 
 # ── Reel-Style Footer (y: 960) ────────────────────────────────────────────────
-draw.text((540, 960), "Automate your replies — 24/7.  igenveritas.com",
+draw.text((540, 960), "Automate your replies — 24/7.  igen-veritas.com",
           fill=(*BODY_GRAY, 199), font=get_font(22, "regular"), anchor="mm")
 
 # Save

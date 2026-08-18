@@ -17,7 +17,7 @@
 
 **Brand header (top-left):**
 - "IGEN VERITAS" — white, bold, 30px
-- "igenveritas.com" — body gray, 22px
+- "igen-veritas.com" — body gray, 22px
 
 **Headline (centered, large bold):**
 - Line 1: "Every Visitor Who Leaves" — white
@@ -39,7 +39,7 @@ White semi-transparent rounded card containing 4 scenario lines:
 "DM 'BOT' to get started"
 
 **Footer:**
-"igenveritas.com  ·  info@igenveritas.com"
+"igen-veritas.com  ·  igenveritas@gmail.com"
 
 ---
 

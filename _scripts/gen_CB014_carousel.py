@@ -115,8 +115,8 @@ def logo(draw, img, x=52, y=44, on_grad=False):
 
 def footer(draw):
     f = fnt(F_REG, 22)
-    w = get_tw(draw, "igenveritas.com", f)
-    draw.text((SIZE - w - 52, SIZE - 52), "igenveritas.com", font=f, fill=BODY_GRAY)
+    w = get_tw(draw, "igen-veritas.com", f)
+    draw.text((SIZE - w - 52, SIZE - 52), "igen-veritas.com", font=f, fill=BODY_GRAY)
 
 def slide_num(draw, label):
     f = fnt(F_REG, 22)
@@ -509,7 +509,7 @@ def slide5():
 
     text_cx(draw, "and we’ll match you to the right tier.", BY + 184, sf, WHITE)
 
-    text_cx(draw, "igenveritas.com  ·  +60 17 310 3966",
+    text_cx(draw, "igen-veritas.com  ·  +60 17 310 3966",
             SIZE - 78, fnt(F_REG, 23), (222, 226, 255))
 
     img.convert("RGB").save(os.path.join(OUT_DIR, "CB-014_slide5_cta.png"), "PNG", quality=98)

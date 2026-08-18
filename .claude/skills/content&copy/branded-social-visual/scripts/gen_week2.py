@@ -36,7 +36,7 @@ def brand_watermark(draw):
     font_sm = get_font(20, "regular")
     font_xs = get_font(15, "regular")
     draw.text((54, 50), "IGEN VERITAS", fill=WHITE + (230,), font=font_sm)
-    draw.text((54, 76), "igenveritas.com", fill=BODY_GRAY + (200,), font=font_xs)
+    draw.text((54, 76), "igen-veritas.com", fill=BODY_GRAY + (200,), font=font_xs)
 
 def bottom_strip(img, draw):
     strip = Image.new("RGBA", (1080, 56), (0, 0, 0, 0))
@@ -239,7 +239,7 @@ def gen_cb007():
     draw.text((920, 831), "2:17 AM", fill=BODY_GRAY, font=get_font(16, "regular"), anchor="rm")
 
     # Reel-style bottom CTA
-    draw.text((540, 960), "Automate your replies — 24/7. igenveritas.com",
+    draw.text((540, 960), "Automate your replies — 24/7. igen-veritas.com",
               fill=(*BODY_GRAY, 200), font=get_font(22, "regular"), anchor="mm")
 
     out = os.path.join(OUT_DIR, "20260511_pain_CB007_pov_2am_no_reply.png")
